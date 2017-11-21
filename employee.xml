@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <firstname>Basia</firstname>
+        <lastname>Ivanov</lastname>
+        <age>24</age>
+        <experience>4</experience>
+        <passport>
+            <seria>HB</seria>
+            <number>4589789</number>
+        </passport>
+    </employee>
+    <employee>
+        <firstname>Petia</firstname>
+        <lastname>Petrov</lastname>
+        <age>28</age>
+        <experience>5</experience>
+        <passport>
+            <seria>HB</seria>
+            <number>7585757</number>
+        </passport>
+    </employee>
+</employees>
